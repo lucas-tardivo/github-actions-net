@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\GitHub\\github-actions-net\\SampleWeb\\SampleWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\Documents\\GitHub\\github-actions-net\\SampleWeb\\SampleWeb\\SampleWeb.csproj",
       "projectName": "SampleWeb",
-      "projectPath": "C:\\Users\\Lucas\\Documents\\GitHub\\github-actions-net\\SampleWeb\\SampleWeb.csproj",
+      "projectPath": "C:\\Users\\Lucas\\Documents\\GitHub\\github-actions-net\\SampleWeb\\SampleWeb\\SampleWeb.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas\\Documents\\GitHub\\github-actions-net\\SampleWeb\\obj\\",
+      "outputPath": "C:\\Users\\Lucas\\Documents\\GitHub\\github-actions-net\\SampleWeb\\SampleWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
